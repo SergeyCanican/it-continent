@@ -1,0 +1,19 @@
+https://i-t-p.pro/
+
+--Front side--
+file:///D:/Web-development/REI/html/home-seo.html
+
+--MAIN--
+file:///D:/Web-development/REI/html/home-business-2.html
+
+--other goodies--
+file:///D:/Web-development/REI/html/home-main.html
+
+file:///D:/Web-development/REI/html/home-business-3.html
+
+--Header--
+file:///D:/Web-development/REI/html/home-fish.html
+file:///D:/Web-development/REI/html/home-hosting.html
+
+--all templates--
+file:///D:/Web-development/REI/html/index.html
