@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-	color: $thirdColor;
+	color: blue;
 	text-decoration: none;
 }
 
@@ -40,6 +40,10 @@ a:active {
 	text-decoration: none;
 }
 
+.btn-partner:hover {
+	background-color: $mainColor !important;
+}
+
 .btn-primary-travlez {
 	background-color: $mainColor;
 	border: none;
@@ -48,7 +52,7 @@ a:active {
 }
 
 .btn-primary-travlez:hover {
-	background-color: $thirdColor
+	background-color: $mainColor;
 }
 
 input {

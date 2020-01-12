@@ -1058,18 +1058,18 @@ a {
 }
 
 a:hover {
-  color: #F44336;
+  color: #0864b2;
   text-decoration: none;
 }
 
 a:focus {
-  color: #F44336;
+  color: #0864b2;
   outline: none;
   text-decoration: none;
 }
 
 a:active {
-  color: #F44336;
+  color: #0864b2;
   outline: none;
   text-decoration: none;
 }
