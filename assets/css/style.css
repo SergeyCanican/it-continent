@@ -64,7 +64,7 @@ header ul.nav-menu > li > a {
   color: #000;
   z-index: 3;
   opacity: .7;
-  font-family: "Poppins";
+  font-family: "Open Sans";
   text-transform: capitalize;
   font-size: 14px;
   font-weight: 500;
@@ -867,7 +867,7 @@ header.header-search .input-group-lg > .input-group-btn > .btn {
   text-transform: uppercase;
   font-weight: 700;
   padding: 15px 25px 15px 25px;
-  font-family: "Poppins";
+  font-family: "Open Sans";
 }
 
 .fixed-header {
@@ -1038,7 +1038,7 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 }
 
 body {
-  font-family: "Poppins";
+  font-family: "Open Sans";
   font-size: 13px;
   line-height: 23px;
   background-color: #FAFAFA;
@@ -1074,6 +1074,11 @@ a:active {
   text-decoration: none;
 }
 
+.btn-partner {
+  width: 150px;
+  font-size: 13px;
+}
+
 .btn-primary-travlez {
   background-color: #0864b2;
   border: none;
@@ -1082,7 +1087,7 @@ a:active {
 }
 
 .btn-primary-travlez:hover {
-  background-color: #F44336;
+  background-color: #0864b2;
 }
 
 input {
@@ -30850,7 +30855,7 @@ form.dark-form ::-ms-input-placeholder {
   text-transform: lowercase;
   font-weight: 300;
   padding: 15px 25px 15px 25px;
-  font-family: "Poppins";
+  font-family: "Open Sans";
 }
 
 .YouTubePopUp-Content {
