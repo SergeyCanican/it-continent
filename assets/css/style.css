@@ -38,6 +38,9 @@ header {
   z-index: 9;
   /* Link Padding Top & bottom */
 }
+header a.mobile-phone {
+  display: none;
+}
 header a.mobile-toggle {
   display: none;
 }
@@ -1181,6 +1184,11 @@ video {
 /*     Global        -------------------------------------------------- *
 ======================================================================= */
 /*--- Global Background ---*/
+
+.ta-center {
+  text-align: center;
+}
+
 .background-main-color {
   background-color: #0864b2;
 }
@@ -1841,7 +1849,7 @@ video {
 }
 
 .right-60px {
-  right: 60px;
+  right: 60px !important;
 }
 
 .right-61px {
@@ -4023,6 +4031,14 @@ video {
 .margin-lr-auto {
   margin-right: auto;
   margin-left: auto;
+}
+
+.margin-0-auto {
+  margin: 0 auto;
+}
+
+.margin-10-auto {
+  margin: 10px auto;
 }
 
 .right-auto {
@@ -31042,7 +31058,19 @@ ul.portfolio-filter li {
   padding: 5px 10px 5px 10px !important;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
+  header a.mobile-phone {
+    margin: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 60px;
+  }
+
   header a.mobile-toggle {
     margin: 10px;
     font-size: 20px;

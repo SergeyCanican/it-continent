@@ -23,6 +23,9 @@
 header {
 	position: relative;
 	z-index: 9;
+	a.mobile-phone {
+		display: none
+	}
 	a.mobile-toggle {
 		display: none
 	}
